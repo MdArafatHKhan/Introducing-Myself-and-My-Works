@@ -7,3 +7,4 @@ Hello, I am a pure matematician and doing research in the field of artificial in
 - <a href="https://github.com/MdArafatHKhan/Differential-Geometry">Differential Geometry</a> : This is an initiative to brush up the studies I did on this topic while doing my PhD.
 - <a href="https://github.com/MdArafatHKhan/Quantum-Computing">Quantum Computing</a> : A sudden desire to learn quantum computing is the reason to create this repository.
 - <a href="https://github.com/MdArafatHKhan/Functional-Analysis">Functional-Analysis</a> : This is an initiative to brush up the studies I did on this topic while doing my PhD.
+- <a href="https://github.com/MdArafatHKhan/Advanced-Algorithms">Advanced Algorithms</a> : One of my most favorite topic is algorithm. I am brushing up my studies and trying to note it down.
